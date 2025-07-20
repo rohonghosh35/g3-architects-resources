@@ -253,7 +253,11 @@ main{
     width:100%;
     
 }
-
+#border{
+    border-left: 5px solid rgba(255, 144, 14, 1.00);
+    height: 50px;
+    padding-left: 21px;
+}
 .confused{
     padding: 46px 42px;
     margin-left: -100px;
